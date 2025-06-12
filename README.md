@@ -8,3 +8,8 @@
 Install two extensions in VSCODE 
 - Github Copilot ( 
 - Gihub Copilot Chat
+
+
+[Supabase](https://supabase.com/docs/guides/getting-started/mcp#visual-studio-code-copilot) document explains how to configure vscode.
+
+
