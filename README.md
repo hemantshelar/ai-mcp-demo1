@@ -12,4 +12,7 @@ Install two extensions in VSCODE
 
 [Supabase](https://supabase.com/docs/guides/getting-started/mcp#visual-studio-code-copilot) document explains how to configure vscode.
 
+Grab supabase access token from Profile.  Access token for this project is stored [here](https://docs.google.com/spreadsheets/d/1r45vge2j7bd4WUOxOLSWRn7eHqK29WgCvldMb_nIYz0/edit?gid=514666120#gid=514666120)
+
+
 
